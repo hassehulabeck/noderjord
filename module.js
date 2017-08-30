@@ -1,7 +1,8 @@
-var myPrinter = {
+module.exports = {
     print: function() {
-        console.log('1x2');        
+            console.log('1x2');        
+    },
+    printingHello: function() {
+            console.log("Hej");
     }
-};
-
-module.exports=myPrinter;
+}
