@@ -1,0 +1,10 @@
+{
+    "Hans": {
+        "userID": 1,
+        "credits": 200
+    },
+    "Torkel": {
+        "userID": 2,
+        "credits": 1000
+    }
+}
